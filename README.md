@@ -107,3 +107,6 @@ If you encounter any issues during installation, here are some common fixes:
 ## 💬 Contact & Support
 
 If you have any issues, feel free to open an issue on this GitHub repository.
+
+![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
+
