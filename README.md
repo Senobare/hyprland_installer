@@ -1,6 +1,6 @@
-# My_Hyprland
+# hyprland_installer
 
-Welcome to **My_Hyprland**! This repository contains an **installer script** designed to set up a personalized and optimized **Hyprland** environment on your Arch Linux system. Whether you're a developer, enthusiast, or new to Hyprland, this script will guide you through the setup process and automate most of the configuration.
+Welcome to **hyprland_installer**! This repository contains an **installer script** designed to set up a personalized and optimized **Hyprland** environment on your Arch Linux system. Whether you're a developer, enthusiast, or new to Hyprland, this script will guide you through the setup process and automate most of the configuration.
 
 ---
 
@@ -26,10 +26,10 @@ To get started, follow these simple steps to clone and run the installer script.
 First, clone the repository to your local machine:
 
 ```
-git clone https://github.com/Senobare/My_Hyprland.git
+git clone https://github.com/Senobare/hyprland_installer.git
 ```
 ```
-cd My_Hyprland
+cd hyprland_installer/installerScript
 ```
 
 ### 2. Run the Installer Script
@@ -37,7 +37,7 @@ cd My_Hyprland
 Next, run the installer.sh script to automatically set up your Hyprland environment:
 
 ```
-./installer.sh
+sh installer.sh
 ```
 
 This script will:
@@ -106,4 +106,4 @@ If you encounter any issues during installation, here are some common fixes:
 
 ## 💬 Contact & Support
 
-If you have any issues, feel free to open an issue on this GitHub repository. We're always happy to help!
+If you have any issues, feel free to open an issue on this GitHub repository.
