@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+<action>
+	<icon>emblem-package</icon>
+	<name>Zip Selected</name>
+	<submenu></submenu>
+	<unique-id>1731165661632617-1</unique-id>
+	<command>~/.config/Thunar/zip_selected.sh %f</command>
+	<description>Compresses files</description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
+<action>
+	<icon>applications-other</icon>
+	<name>Unzip Selected</name>
+	<submenu></submenu>
+	<unique-id>1731165680197957-2</unique-id>
+	<command>~/.config/Thunar/unzip_selected.sh %f</command>
+	<description>Decompresses archive</description>
+	<range>*</range>
+	<patterns>*.zip;*.tar.gz;*.7z</patterns>
+	<other-files/>
+</action>
+<action>
+	<icon>utilities-terminal</icon>
+	<name>Open Terminal Here</name>
+	<submenu></submenu>
+	<unique-id>1730841761572343-1</unique-id>
+	<command>exo-open --working-directory %f --launch TerminalEmulator</command>
+	<description>Example for a custom action</description>
+	<range></range>
+	<patterns>*</patterns>
+	<startup-notify/>
+	<directories/>
+</action>
+<action>
+	<icon></icon>
+	<name></name>
+	<submenu></submenu>
+	<unique-id>1731166386341486-1</unique-id>
+	<command></command>
+	<description></description>
+	<range>*</range>
+	<patterns>*</patterns>
+	<directories/>
+	<audio-files/>
+	<image-files/>
+	<other-files/>
+	<text-files/>
+	<video-files/>
+</action>
+</actions>
