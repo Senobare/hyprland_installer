@@ -1,4 +1,4 @@
-INSTALLER_DIR=~/My_Hyprland/installerScript
+INSTALLER_DIR=~/hyprland_installer/installerScript
 INSTALLER_SCRIPT=$INSTALLER_DIR/installer.sh
 CONFIG_DIR=~/.config
 
@@ -11,9 +11,9 @@ else
     echo -e "\033[1;34m$CONFIG_DIR already exists.\033[0m"
 fi
 
-# Copy everything from MY_hyprland to ~/.config, overwrite duplicates
+# Copy everything from hyprland_installer to ~/.config, overwrite duplicates
 echo -e "\033[1;34mCopy files from ~/MY_hyprland to $CONFIG_DIR...\033[0m"
-sudo cp -f ~/My_Hyprland/* "$CONFIG_DIR/" 2>/dev/null
+sudo cp -r ~/hyprland_installer/* "$CONFIG_DIR/" 2>/dev/null
 
 # Ensure the script itself remains executable and in place during execution
 if [ ! -f "$INSTALLER_SCRIPT" ]; then
@@ -161,7 +161,7 @@ fi
 
 # Cleanup
 echo -e "\033[1;34mCleaning up...\033[0m"
-sudo rm -rf ~/My_Hyprland
+sudo rm -rf ~/hyprland_installer
 sudo rm -rf "$CONFIG_DIR/installerScript"
 
 # Ensure all files and folders in ~/.config are changeable by the user
