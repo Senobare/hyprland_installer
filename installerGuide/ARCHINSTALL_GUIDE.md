@@ -17,6 +17,7 @@ Boot from the live USB you created. You can follow the [official installation gu
 archinstall
 ```
 [official archinstall guide](https://archinstall.archlinux.page/installing/guided.html#)
+
 Don't worry about all the plain text in the guides. Once archinstall starts, the process is quite intuitive. These guides are here to help you understand the options and steps available during the installation.
 
 ## 4. Post-installation Setup
