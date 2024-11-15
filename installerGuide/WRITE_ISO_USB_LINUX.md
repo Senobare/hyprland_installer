@@ -2,11 +2,11 @@
 
 ## Guide for Linux Users
 
-Are you seriously looking for a guide to create a bootable USB on Linux? Come on, you're a Linux user—you were probably born knowing how to do this.
+Are you seriously looking for a guide to create a bootable USB on Linux? Come on, you're a Linux user, you were probably born knowing how to do this.
 But just in case you've temporarily forgotten your innate skills, here's the "guide":
 
 1. **Open your terminal.**  
-You're already in it, aren't you? Thought so.
+You're already in it, aren't you?
 
 2. **Find your USB device.**  
 Use the magical powers of `lsblk` or `fdisk`. If you're feeling spicy, go for `dmesg`.
