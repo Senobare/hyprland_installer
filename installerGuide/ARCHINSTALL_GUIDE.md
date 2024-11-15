@@ -5,11 +5,11 @@ If you don't have Arch Linux set up yet, here is a step-by-step guide to install
 Go to the [Arch Linux download page](https://www.archlinux.org/download/) and download the .iso
 
 ## 2. Create a Bootable USB
-- [Linux:](isntallerGuide/WRITE_ISO_USB_LINUX.md)
+- [Linux](isntallerGuide/WRITE_ISO_USB_LINUX.md)
 
-- [MacOS:](instellerGuide/WRITE_ISO_USB_MAC.md)
+- [MacOS](instellerGuide/WRITE_ISO_USB_MAC.md)
 
-- [Windows:](instellerGuide/WRITE_ISO_USB_WINDOWS.md)
+- [Windows](instellerGuide/WRITE_ISO_USB_WINDOWS.md)
 
 ## 3. Install Arch Linux
 Boot from the live USB you created. You can follow the [official installation guide](https://wiki.archlinux.org/title/Installation_guide) to install Arch Linux. For e simpler Arch Linux installation you can use the command:
