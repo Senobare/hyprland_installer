@@ -6,7 +6,6 @@ Welcome to **hyprland_installer**! This repository contains an **installer scrip
 
 ## 🌟 Requirements
 Before diving into the installation, make sure your system meets the following requirements:
-✅ System Prerequisites
 
 ### Minimal Arch Linux Installation:
   - A clean, up-to-date minimal installation of Arch Linux is required as the base system for setting up Hyprland. If you're new to Arch, check the [Arch Wiki](https://wiki.archlinux.org/title/Main_page) for guidance on installation.
