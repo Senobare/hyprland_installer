@@ -29,3 +29,5 @@ After installing Arch, reboot your system and follow the steps below to set up y
 
 ## 5. Finishing up
 You now have a minimal Arch Linux installation. You can now proceed however you want or use my installer script to set up a minimal Hyprland isntallation. 
+
+[Back to hyprland_installer](../README.md)
