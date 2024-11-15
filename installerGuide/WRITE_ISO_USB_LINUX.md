@@ -60,3 +60,5 @@ sudo zypper install balena-etcher
 ```
 sudo apk add balena-etcher
 ```
+
+[Back to Arch install tutorial](ARCHINSTALL_GUIDE.md)
