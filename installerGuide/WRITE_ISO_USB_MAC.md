@@ -55,4 +55,4 @@ diskutil eject /dev/diskX
 
 Your USB drive or external disk is now ready to use as a bootable drive.
 
-[Back to Arch install tutorial](ARCHINSTALL_GUIDE.md)
+[Back to Arch Linux Installation Guide](ARCHINSTALL_GUIDE.md)
