@@ -1,6 +1,7 @@
 # hyprland_installer
 Welcome to **hyprland_installer**! This repository contains an **installer script** designed to set up a personalized and optimized **Hyprland** environment on your Arch Linux system. Whether you're a developer, enthusiast, or new to Hyprland, this script will guide you through the setup process and automate most of the configuration.
 
+>**Note:** This installer does not cover the NVIDIA side. Currently, users with an NVIDIA card will need to troubleshoot on their own. You can refer to the official guide here: [Hyprland NVIDIA Setup](https://wiki.hyprland.org/Nvidia/).
 ---
 
 ## 🌟 Requirements
