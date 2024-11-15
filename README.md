@@ -20,7 +20,7 @@ Before diving into the installation, make sure your system meets the following r
 ## 🚀 Installation
 To get started, follow these simple steps to clone and run the installer script.
 
-### 1. Clone the Repository
+**1. Clone the Repository**
 First, clone the repository to your local machine:
 ```
 git clone https://github.com/Senobare/hyprland_installer.git
@@ -28,7 +28,7 @@ git clone https://github.com/Senobare/hyprland_installer.git
 ```
 cd hyprland_installer/installerScript
 ```
-### 2. Run the Installer Script
+**2. Run the Installer Script**
 Next, run the installer.sh script to automatically set up your Hyprland environment:
 ```
 sh installer.sh
@@ -63,18 +63,18 @@ This file also controls how programs are tied to Hyprland startup, so feel free 
 Make your environment truly yours by adjusting the appearance and configuring the cursor. These tweaks will help you get started with a better-looking setup.
 Follow this steps as a starting point for your system theme. 
 
-### 1. Set Dark theme:
+**1. Set Dark theme:**
 Set the Adwaita-Dark GTK theme using NWG-Look (will appear as GWK Setting in Wofi):
 
   - Run nwg-look and choose the Adwaita-Dark theme under GTK settings.
 
-### 2. Set the Cursor to BreezeX-RoséPine
+**2. Set the Cursor to BreezeX-RoséPine**
   - In NWG-Look Go to Cursor settings.
   - Choose BreezeX-RoséPine and set the size to 28.
 
 Note: Most visual theme changes, such as the GTK theme and cursor, will be applied after a reboot.
 
-### 3. Set your wallpapers
+**3. Set your wallpapers**
   - Download and add your wallpapers to the folder named WallDaemon located in the Pictures directory.
 
 ## 🔧 Additional Information
