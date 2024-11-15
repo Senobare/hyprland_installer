@@ -40,7 +40,7 @@ Enjoy your bootable USB and the smug satisfaction of being a Linux user who does
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
-**Bonus: Tech Heresy – Use a GUI Tool**
+**Bonus: Tech Heresy – Use a GUI Tool.**
 Now, if you want to commit tech heresy, you can go ahead and install a GUI tool like Etcher. But you know deep down it's a betrayal of your true Linux spirit.
 
 *Hearken ye, who dares defy the ancient ways of the terminal. Prepare thine self, for the ritual to summon the demon Etcher is fraught with peril. Gather round, as this chant calls forth a creature of GUI, a fiendish tool that defiles the sacred command line.*
