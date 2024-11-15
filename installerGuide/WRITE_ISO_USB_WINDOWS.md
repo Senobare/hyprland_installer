@@ -40,3 +40,4 @@ This guide explains how to create a bootable USB drive from an ISO file on Windo
 
 Your USB drive is now bootable and ready to use.
 
+[Back to Arch install tutorial](ARCHINSTALL_GUIDE.md)
