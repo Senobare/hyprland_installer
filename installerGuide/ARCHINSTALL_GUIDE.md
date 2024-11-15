@@ -22,10 +22,10 @@ Don't worry about all the plain text in the guides. Once archinstall starts, the
 ## 4. Post-installation Setup
 After installing Arch, reboot your system and follow the steps below to set up your environment for the script:
    
-- Install required packages:
-  ```
-  sudo pacman -S git
-  ```
+Install required packages:
+```
+sudo pacman -S git
+```
 
 ## 5. Finishing up
 You now have a minimal Arch Linux installation. You can now proceed however you want or use my installer script to set up a minimal Hyprland isntallation. 
